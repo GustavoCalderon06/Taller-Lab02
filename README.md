@@ -1,3 +1,5 @@
 Integrantes:
-Gustavo Calderom
+Gustavo Calderom:
+-Menu y validaciones
+
 Leandro Pino
